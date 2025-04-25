@@ -1,7 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&center=true&vCenter=true&width=1000&height=80&lines=🚀+Hey%2C+I'm+Aditya+S.+Jadhav!+🌠;👨‍💻+Aspiring+Software+Engineer+|+Cloud+%26+AI+Enthusiast+🪐" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=200&section=header&text=Hey%20there!%20I'm%20Aditya%20Jadhav&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://user-images.githubusercontent.com/74383191/235302566-8e3b46a7-5e30-4265-8c89-d0c27bce4a63.gif" width="100%" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=💻+Software+Engineer+in+the+making;🌱+Learning+Generative+AI%2C+Cloud%2C+DevOps;🚀+Hackathon+Enthusiast+%26+Tech+Explorer" />
+</p>
 
 ---
 
