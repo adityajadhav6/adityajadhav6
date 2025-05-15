@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=200&section=header&text=Hey%20there!%20I'm%20Aditya%20Jadhav&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=💻+Software+Engineer+in+the+making;🌱+Learning+Generative+AI%2C+Cloud%2C+DevOps;🚀+Hackathon+Enthusiast+%26+Tech+Explorer" />
-</p>
 
 ---
 
