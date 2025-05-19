@@ -59,7 +59,8 @@
 - ☁️ Google Cloud Certified – Associate Cloud Engineer Prep  
 - 🔐 Cisco – Intro to Cybersecurity  
 - 🐍 NPTEL – Python in Data Science  
-- 🔒 Coursera – Foundations of Cybersecurity  
+- 🔒 Coursera – Foundations of Cybersecurity
+- 🛠️ Postman - Postman API Foundations Student Expert
 
 ---
 
