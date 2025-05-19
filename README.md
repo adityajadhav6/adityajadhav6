@@ -86,7 +86,7 @@
 
 📧 **adi.jadhav674@gmail.com**  
 📱 **+91 8618930206**  
-🌐 [LinkedIn](www.linkedin.com/in/aditya-s-jadhav-422814259) | [GitHub](https://github.com/adityajadhav6)
+🌐 [LinkedIn]([www.linkedin.com/in/aditya-s-jadhav-422814259](https://www.linkedin.com/in/aditya-s-jadhav-422814259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) | [GitHub](https://github.com/adityajadhav6)
 
 ---
 
