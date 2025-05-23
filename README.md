@@ -34,6 +34,8 @@
 📘 Role-based access for Doctorates and Admins  
 ⚙️ PHP + MySQL with smooth UI and optimized database design
 
+**Restaurant Management System**
+
 ---
 
 ## 🌍 Virtual Experiences
