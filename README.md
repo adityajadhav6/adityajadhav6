@@ -8,12 +8,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -35,6 +33,11 @@
 ⚙️ PHP + MySQL with smooth UI and optimized database design
 
 **Restaurant Management System**
+🛠️ Developed a backend system using Node.js, Express, and MongoDB for managing restaurant tables and orders.
+🔁 Supports CRUD operations for tables, including dynamic status updates (Vacant, Occupied, Reserved).
+🧾 Handles order storage and generates realistic billing with CGST and SGST tax breakdown.
+🔗 Includes RESTful API endpoints, structured for easy integration with any frontend.
+🐳 Dockerized for efficient containerized deployment and cross-environment portability.
 
 ---
 
