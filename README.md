@@ -25,19 +25,19 @@
 ## 🚀 Projects
 
 **Doctor Appointment Management System**  
-🩺 Book appointments, check slots, and view doctor profiles  
-💡 Built using modern web technologies & aligned with HIPAA standards
+- 🩺 Book appointments, check slots, and view doctor profiles  
+- 💡 Built using modern web technologies & aligned with HIPAA standards
 
 **Research Center Management System**  
-📘 Role-based access for Doctorates and Admins  
-⚙️ PHP + MySQL with smooth UI and optimized database design
+- 📘 Role-based access for Doctorates and Admins  
+- ⚙️ PHP + MySQL with smooth UI and optimized database design
 
-**Restaurant Management System**
-🛠️ Developed a backend system using Node.js, Express, and MongoDB for managing restaurant tables and orders.
-🔁 Supports CRUD operations for tables, including dynamic status updates (Vacant, Occupied, Reserved).
-🧾 Handles order storage and generates realistic billing with CGST and SGST tax breakdown.
-🔗 Includes RESTful API endpoints, structured for easy integration with any frontend.
-🐳 Dockerized for efficient containerized deployment and cross-environment portability.
+**Restaurant Management System**  
+- 🛠️ Developed a backend system using Node.js, Express, and MongoDB for managing restaurant tables and orders  
+- 🔁 Supports CRUD operations for tables, including dynamic status updates (Vacant, Occupied, Reserved)  
+- 🧾 Handles order storage and generates realistic billing with CGST and SGST tax breakdown  
+- 🔗 Includes RESTful API endpoints, structured for easy integration with any frontend  
+- 🐳 Dockerized for efficient containerized deployment and cross-environment portability
 
 ---
 
