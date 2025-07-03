@@ -4,7 +4,7 @@
 
 ---
 
-**My projects live here. Have a peek!** : https://portfolio-adityajadhav6s-projects.vercel.app
+**My projects live here. Have a peek!** : [Portfolio]([https://github.com/adityajadhav6](https://portfolio-adityajadhav6s-projects.vercel.app))
 
 
 ## 🔧 Skills & Tools
