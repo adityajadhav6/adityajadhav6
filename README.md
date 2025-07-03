@@ -4,7 +4,7 @@
 
 ---
 
-https://portfolio-adityajadhav6s-projects.vercel.app
+## My projects live here--take a look: "https://portfolio-adityajadhav6s-projects.vercel.app"
 
 
 ## 🔧 Skills & Tools
@@ -93,7 +93,6 @@ https://portfolio-adityajadhav6s-projects.vercel.app
 ## 📬 Contact Me
 
 📧 **adi.jadhav674@gmail.com**  
-📱 **+91 8618930206**  
 🌐 [LinkedIn](http://www.linkedin.com/in/aditya-s-jadhav-422814259/) | [GitHub](https://github.com/adityajadhav6)
 
 ---
