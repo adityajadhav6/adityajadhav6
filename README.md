@@ -93,7 +93,7 @@
 ## 📬 Contact Me
 
 📧 **adi.jadhav674@gmail.com**  
-🌐 [LinkedIn](http://www.linkedin.com/in/aditya-s-jadhav-422814259/) | [GitHub](https://github.com/adityajadhav6)
+🌐 [LinkedIn](http://www.linkedin.com/in/aditya-s-jadhav-422814259/) 
 
 ---
 
